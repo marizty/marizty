@@ -1,5 +1,13 @@
-## Hi there 👋
+### Hi, I'm Mariah 👋
 
+Medical Physics postgraduate (Universiti Malaya) transitioning into data analytics.
+
+- 🔬 Background in quantitative research — MATLAB & SPSS data analysis for my Master's thesis, and structured clinical data collection during a hospital internship
+- 📊 Currently learning Python through the MyMahir Data Analytics Train-and-Place Programme
+- 🌱 Also building basic SQL, Power BI, and cloud fundamentals
+- 🎯 Looking to grow into a Data Analyst role, bringing a detail-driven, protocol-trained background from healthcare into data work
+
+📫 Reach me: mariah.iztr@gmail.com | [LinkedIn](https://linkedin.com/in/mariah-izzaty-romzi)
 <!--
 **marizty/marizty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
